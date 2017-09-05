@@ -20,6 +20,7 @@
  *	Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 /*
+ * Bert Folkers met fix 74 en 79
  *  Version 0.8.3v (22 Jun 2017)
  *  Modification made by Bruce Quinton (Zanoroy@gmail.com)
  *     - I had previously tagged Group Messages as GPN message types, 
